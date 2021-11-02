@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/tootie-fruity-game/static/css/main.34102d29.chunk.css",
+    "main.js": "/tootie-fruity-game/static/js/main.5b909358.chunk.js",
+    "main.js.map": "/tootie-fruity-game/static/js/main.5b909358.chunk.js.map",
+    "runtime-main.js": "/tootie-fruity-game/static/js/runtime-main.0487f323.js",
+    "runtime-main.js.map": "/tootie-fruity-game/static/js/runtime-main.0487f323.js.map",
+    "static/js/2.f3aa6fe3.chunk.js": "/tootie-fruity-game/static/js/2.f3aa6fe3.chunk.js",
+    "static/js/2.f3aa6fe3.chunk.js.map": "/tootie-fruity-game/static/js/2.f3aa6fe3.chunk.js.map",
+    "static/js/3.e8a0d386.chunk.js": "/tootie-fruity-game/static/js/3.e8a0d386.chunk.js",
+    "static/js/3.e8a0d386.chunk.js.map": "/tootie-fruity-game/static/js/3.e8a0d386.chunk.js.map",
+    "index.html": "/tootie-fruity-game/index.html",
+    "static/css/main.34102d29.chunk.css.map": "/tootie-fruity-game/static/css/main.34102d29.chunk.css.map",
+    "static/js/2.f3aa6fe3.chunk.js.LICENSE.txt": "/tootie-fruity-game/static/js/2.f3aa6fe3.chunk.js.LICENSE.txt",
+    "static/media/apple.68669a7b.png": "/tootie-fruity-game/static/media/apple.68669a7b.png",
+    "static/media/avocado.7448dcc4.png": "/tootie-fruity-game/static/media/avocado.7448dcc4.png",
+    "static/media/banana.1df8dbb7.png": "/tootie-fruity-game/static/media/banana.1df8dbb7.png",
+    "static/media/blueberries.5c1b9a26.png": "/tootie-fruity-game/static/media/blueberries.5c1b9a26.png",
+    "static/media/dragonfruit.ee8d6bf2.png": "/tootie-fruity-game/static/media/dragonfruit.ee8d6bf2.png",
+    "static/media/fruits.5dfdb152.png": "/tootie-fruity-game/static/media/fruits.5dfdb152.png",
+    "static/media/grapes.1b91e8ea.png": "/tootie-fruity-game/static/media/grapes.1b91e8ea.png",
+    "static/media/kiwi.9ac10688.png": "/tootie-fruity-game/static/media/kiwi.9ac10688.png",
+    "static/media/lemon.621bdb25.png": "/tootie-fruity-game/static/media/lemon.621bdb25.png",
+    "static/media/mango.3e59a772.png": "/tootie-fruity-game/static/media/mango.3e59a772.png",
+    "static/media/melon.fd9c5f1f.png": "/tootie-fruity-game/static/media/melon.fd9c5f1f.png",
+    "static/media/orange.5175b8e8.png": "/tootie-fruity-game/static/media/orange.5175b8e8.png",
+    "static/media/pineapple.f92939f3.png": "/tootie-fruity-game/static/media/pineapple.f92939f3.png",
+    "static/media/strawberry.abf78110.png": "/tootie-fruity-game/static/media/strawberry.abf78110.png",
+    "static/media/tomato.f33c577b.png": "/tootie-fruity-game/static/media/tomato.f33c577b.png",
+    "static/media/watermelon.df671e3b.png": "/tootie-fruity-game/static/media/watermelon.df671e3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0487f323.js",
+    "static/js/2.f3aa6fe3.chunk.js",
+    "static/css/main.34102d29.chunk.css",
+    "static/js/main.5b909358.chunk.js"
+  ]
+}
